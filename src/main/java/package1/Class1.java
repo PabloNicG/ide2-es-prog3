@@ -6,4 +6,6 @@ public class Class1 {
         //JavaClass - Class1
 public void m1 (){}
 
+public void m2 (){}
+
 }
